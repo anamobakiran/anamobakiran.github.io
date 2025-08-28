@@ -481,7 +481,7 @@
 
             // Add Previous button
             const prevBtn = document.createElement('button');
-            prevBtn.textContent = 'Previous';
+            prevBtn.textContent = '←';
             prevBtn.className = 'fade-in';
             prevBtn.style.animationDelay = '0s';
             prevBtn.disabled = currentPage === 1;
@@ -492,48 +492,65 @@
             });
             pagination.appendChild(prevBtn);
 
-            // Add page numbers
+            // Calculate pages to show (max 3 numeric buttons + arrows = 5 total)
             const pagesToShow = [];
-            const maxPagesToShow = 5; // Show current page, 2 before, 2 after
+            const maxNumericPages = 3; // Current page + one before + one after
             const firstPage = 1;
             const lastPage = pageCount;
 
-            // Always show first page
-            pagesToShow.push(firstPage);
+            // Always show current page
+            pagesToShow.push(currentPage);
 
-            // Calculate range around current page
-            let startPage = Math.max(2, currentPage - 2);
-            let endPage = Math.min(pageCount - 1, currentPage + 2);
-
-            // Adjust if close to start or end
-            if (currentPage <= 3) {
-                endPage = Math.min(maxPagesToShow, pageCount - 1);
+            // Add one page before and after, if available
+            if (currentPage > 1) {
+                pagesToShow.unshift(currentPage - 1); // Add page before
             }
-            if (currentPage >= pageCount - 2) {
-                startPage = Math.max(2, pageCount - maxPagesToShow + 1);
+            if (currentPage < pageCount) {
+                pagesToShow.push(currentPage + 1); // Add page after
             }
 
-            // Add ellipsis after first page if needed
-            if (startPage > 2) {
-                const ellipsis = document.createElement('span');
-                ellipsis.textContent = '...';
-                ellipsis.className = 'ellipsis';
-                pagination.appendChild(ellipsis);
+            // If fewer than 3 pages, add more to fill up to 3
+            if (pagesToShow.length < maxNumericPages && pageCount > pagesToShow.length) {
+                if (currentPage <= 2) {
+                    // Near start, add subsequent pages
+                    for (let i = pagesToShow.length + 1; i <= maxNumericPages && i <= pageCount; i++) {
+                        if (!pagesToShow.includes(i)) {
+                            pagesToShow.push(i);
+                        }
+                    }
+                } else if (currentPage >= pageCount - 1) {
+                    // Near end, add preceding pages
+                    for (let i = currentPage - (maxNumericPages - pagesToShow.length); i < currentPage; i++) {
+                        if (i > 0 && !pagesToShow.includes(i)) {
+                            pagesToShow.unshift(i);
+                        }
+                    }
+                }
             }
 
-            // Add pages in range
-            for (let i = startPage; i <= endPage; i++) {
-                pagesToShow.push(i);
-            }
+            // Sort pages numerically
+            pagesToShow.sort((a, b) => a - b);
 
-            // Add ellipsis before last page if needed
-            if (endPage < pageCount - 1) {
+            // Add ellipsis if there are gaps
+            if (pagesToShow[0] > firstPage + 1) {
+                pagesToShow.unshift('ellipsis');
+            }
+            if (pagesToShow[pagesToShow.length - 1] < lastPage - 1) {
                 pagesToShow.push('ellipsis');
             }
 
-            // Always show last page if more than one page
-            if (pageCount > 1) {
+            // Add first and last pages if not already included and needed
+            if (pagesToShow[0] !== firstPage && pageCount > 1) {
+                pagesToShow.unshift(firstPage);
+                if (pagesToShow.length > maxNumericPages + 1) {
+                    pagesToShow.splice(1, 1, 'ellipsis');
+                }
+            }
+            if (pagesToShow[pagesToShow.length - 1] !== lastPage && pageCount > 1) {
                 pagesToShow.push(lastPage);
+                if (pagesToShow.length > maxNumericPages + 1) {
+                    pagesToShow.splice(pagesToShow.length - 2, 1, 'ellipsis');
+                }
             }
 
             // Render page buttons
@@ -557,7 +574,7 @@
 
             // Add Next button
             const nextBtn = document.createElement('button');
-            nextBtn.textContent = 'Next';
+            nextBtn.textContent = '→';
             nextBtn.className = 'fade-in';
             nextBtn.style.animationDelay = `${(pagesToShow.length + 1) * 0.2}s`;
             nextBtn.disabled = currentPage === pageCount;
