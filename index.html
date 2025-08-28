@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Elite Books Library</title>
-    <link rel="icon" href="https://i.postimg.cc/tRYvShSW-/Elite-Books-Library.png" type="image/png">
+    <link rel="icon" href="https://i.postimg.cc/5tXGmYsg/Elite-Books-Library-LOGO.png" type="image/png">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;800&family=Roboto:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -271,10 +271,12 @@
             justify-content: center;
             align-items: center;
             margin: 40px 0;
+            flex-wrap: wrap;
+            gap: 8px;
         }
         .pagination button {
             background: var(--primary-color);
-            margin: 0 8px;
+            margin: 0 4px;
             padding: 12px;
             width: 40px;
             height: 40px;
@@ -296,6 +298,14 @@
         }
         .pagination button.fade-in {
             animation: fadeInUp 0.5s ease-out forwards;
+        }
+        .pagination .ellipsis {
+            margin: 0 4px;
+            padding: 12px;
+            font-size: 1em;
+            color: var(--text-color);
+            display: flex;
+            align-items: center;
         }
         @keyframes fadeInUp {
             from { opacity: 0; transform: translateY(10px); }
@@ -354,11 +364,11 @@
 </head>
 <body>
     <header>
-        <a href="https://weread.site" class="logo-link"><img src="https://i.postimg.cc/tRYvShSW-/Elite-Books-Library.png" alt="Elite Books Library Logo" class="logo"></a>
+        <a href="https://glxy.site" class="logo-link"><img src="https://i.postimg.cc/5tXGmYsg/Elite-Books-Library-LOGO.png" alt="Elite Books Library Logo" class="logo"></a>
         <button class="theme-toggle" onclick="toggleDarkMode()">🌙</button>
         <div class="controls-container">
             <div class="search-container">
-                <input type="text" id="searchInput" placeholder="Search books by title...">
+                <input type="text" id="searchInput" placeholder="Search books by title, author, or description...">
                 <span class="search-icon">🔍</span>
             </div>
             <div class="category-container">
@@ -413,6 +423,7 @@
             });
 
         function renderBooks(page = 1) {
+            currentPage = page;
             const bookGrid = document.getElementById('bookGrid');
             bookGrid.innerHTML = '';
             const start = (page - 1) * booksPerPage;
@@ -468,17 +479,94 @@
             pagination.innerHTML = '';
             const pageCount = Math.ceil(filteredBooks.length / booksPerPage);
 
-            for (let i = 1; i <= pageCount; i++) {
-                const btn = document.createElement('button');
-                btn.textContent = i;
-                btn.className = i === currentPage ? 'active fade-in' : 'fade-in';
-                btn.style.animationDelay = `${(i - 1) * 0.2}s`;
-                btn.addEventListener('click', () => {
-                    currentPage = i;
-                    renderBooks(currentPage);
-                });
-                pagination.appendChild(btn);
+            // Add Previous button
+            const prevBtn = document.createElement('button');
+            prevBtn.textContent = 'Previous';
+            prevBtn.className = 'fade-in';
+            prevBtn.style.animationDelay = '0s';
+            prevBtn.disabled = currentPage === 1;
+            prevBtn.addEventListener('click', () => {
+                if (currentPage > 1) {
+                    renderBooks(currentPage - 1);
+                }
+            });
+            pagination.appendChild(prevBtn);
+
+            // Add page numbers
+            const pagesToShow = [];
+            const maxPagesToShow = 5; // Show current page, 2 before, 2 after
+            const firstPage = 1;
+            const lastPage = pageCount;
+
+            // Always show first page
+            pagesToShow.push(firstPage);
+
+            // Calculate range around current page
+            let startPage = Math.max(2, currentPage - 2);
+            let endPage = Math.min(pageCount - 1, currentPage + 2);
+
+            // Adjust if close to start or end
+            if (currentPage <= 3) {
+                endPage = Math.min(maxPagesToShow, pageCount - 1);
             }
+            if (currentPage >= pageCount - 2) {
+                startPage = Math.max(2, pageCount - maxPagesToShow + 1);
+            }
+
+            // Add ellipsis after first page if needed
+            if (startPage > 2) {
+                const ellipsis = document.createElement('span');
+                ellipsis.textContent = '...';
+                ellipsis.className = 'ellipsis';
+                pagination.appendChild(ellipsis);
+            }
+
+            // Add pages in range
+            for (let i = startPage; i <= endPage; i++) {
+                pagesToShow.push(i);
+            }
+
+            // Add ellipsis before last page if needed
+            if (endPage < pageCount - 1) {
+                pagesToShow.push('ellipsis');
+            }
+
+            // Always show last page if more than one page
+            if (pageCount > 1) {
+                pagesToShow.push(lastPage);
+            }
+
+            // Render page buttons
+            pagesToShow.forEach((page, index) => {
+                if (page === 'ellipsis') {
+                    const ellipsis = document.createElement('span');
+                    ellipsis.textContent = '...';
+                    ellipsis.className = 'ellipsis';
+                    pagination.appendChild(ellipsis);
+                } else {
+                    const btn = document.createElement('button');
+                    btn.textContent = page;
+                    btn.className = page === currentPage ? 'active fade-in' : 'fade-in';
+                    btn.style.animationDelay = `${(index + 1) * 0.2}s`;
+                    btn.addEventListener('click', () => {
+                        renderBooks(page);
+                    });
+                    pagination.appendChild(btn);
+                }
+            });
+
+            // Add Next button
+            const nextBtn = document.createElement('button');
+            nextBtn.textContent = 'Next';
+            nextBtn.className = 'fade-in';
+            nextBtn.style.animationDelay = `${(pagesToShow.length + 1) * 0.2}s`;
+            nextBtn.disabled = currentPage === pageCount;
+            nextBtn.addEventListener('click', () => {
+                if (currentPage < pageCount) {
+                    renderBooks(currentPage + 1);
+                }
+            });
+            pagination.appendChild(nextBtn);
         }
 
         function filterBooks(category) {
