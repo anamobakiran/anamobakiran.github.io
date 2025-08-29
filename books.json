@@ -1,10 +1,10 @@
 [
     {
         "id": "7",
-        "title": "Harry Potter and the Deathly Hallows",
+        "title": "Harry Potter and the Deathly Hallows (7)",
         "author": "J.K. Rowling",
         "description": "Harry, Ron, and Hermione go on a dangerous mission to destroy Voldemort’s Horcruxes and face the final battle for the wizarding world.",
-        "cover": "https://via.placeholder.com/280x250?text=Deathly+Hallows+Cover",
+        "cover": "https://i.postimg.cc/HL7BmpLH/Untitled-720-x-480-px.png",
         "rating": 4.9,
         "formats": ["PDF"],
         "downloads": 0,
@@ -13,7 +13,7 @@
     },
     {
         "id": "6",
-        "title": "Harry Potter and the Half-Blood Prince",
+        "title": "Harry Potter and the Half-Blood Prince(6)",
         "author": "J.K. Rowling",
         "description": "Harry learns more about Voldemort’s past and the dark secrets hidden in Horcruxes while preparing for the ultimate battle.",
         "cover": "https://i.postimg.cc/x1nsKrg3/Untitled-720-x-480-px.png",
@@ -25,7 +25,7 @@
     },
     {
         "id": "5",
-        "title": "Harry Potter and the Order of the Phoenix",
+        "title": "Harry Potter and the Order of the Phoenix (5)",
         "author": "J.K. Rowling",
         "description": "As Voldemort gains power, Harry and his friends form Dumbledore’s Army to fight against the dark forces threatening Hogwarts and the wizarding world.",
         "cover": "https://i.postimg.cc/0yYfQtsK/Untitled-720-x-480-px.png",
@@ -37,7 +37,7 @@
     },
     {
         "id": "4",
-        "title": "Harry Potter and the Goblet of Fire",
+        "title": "Harry Potter and the Goblet of Fire (4)",
         "author": "J.K. Rowling",
         "description": "Harry unexpectedly competes in the dangerous Triwizard Tournament and faces challenges that test his courage and skill.",
         "cover": "https://i.postimg.cc/FRMd04br/Untitled-720-x-480-px.png",
@@ -49,7 +49,7 @@
     },
     {
         "id": "3",
-        "title": "Harry Potter and the Prisoner of Azkaban",
+        "title": "Harry Potter and the Prisoner of Azkaban (3)",
         "author": "J.K. Rowling",
         "description": "Harry learns about Sirius Black, a dangerous prisoner who has escaped from Azkaban and is believed to be after him.",
         "cover": "https://i.postimg.cc/jdN6g8C3/Untitled-720-x-480-px.png",
@@ -61,7 +61,7 @@
     },
     {
         "id": "2",
-        "title": "Harry Potter and the Chamber of Secrets",
+        "title": "Harry Potter and the Chamber of Secrets (2)",
         "author": "J.K. Rowling",
         "description": "Harry returns to Hogwarts and faces the dark secrets of the Chamber of Secrets, where a deadly monster has been unleashed.",
         "cover": "https://i.postimg.cc/Jn4BRxr8/Untitled-720-x-480-px.png",
@@ -73,7 +73,7 @@
     },
     {
         "id": "1",
-        "title": "Harry Potter and the Philosopher's Stone",
+        "title": "Harry Potter and the Philosopher's Stone (1)",
         "author": "J.K. Rowling",
         "description": "The beginning of Harry’s journey into the wizarding world as he discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
         "cover": "https://i.postimg.cc/7hw0J4MF/Untitled-720-x-480-px.png",
