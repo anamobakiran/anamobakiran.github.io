@@ -6,7 +6,7 @@
         "description": "Harry, Ron, and Hermione go on a dangerous mission to destroy Voldemort’s Horcruxes and face the final battle for the wizarding world.",
         "cover": "https://via.placeholder.com/280x250?text=Deathly+Hallows+Cover",
         "rating": 4.9,
-        "formats": ["PDF", "EPUB"],
+        "formats": ["PDF"],
         "downloads": 0,
         "category": "Fantasy",
         "downloadLink": "https://example.com/harry-potter-7.pdf"
@@ -18,7 +18,7 @@
         "description": "Harry learns more about Voldemort’s past and the dark secrets hidden in Horcruxes while preparing for the ultimate battle.",
         "cover": "https://via.placeholder.com/280x250?text=Half-Blood+Prince+Cover",
         "rating": 4.8,
-        "formats": ["PDF", "EPUB"],
+        "formats": ["PDF"],
         "downloads": 0,
         "category": "Fantasy",
         "downloadLink": "https://example.com/harry-potter-6.pdf"
@@ -30,7 +30,7 @@
         "description": "As Voldemort gains power, Harry and his friends form Dumbledore’s Army to fight against the dark forces threatening Hogwarts and the wizarding world.",
         "cover": "https://via.placeholder.com/280x250?text=Order+of+the+Phoenix+Cover",
         "rating": 4.7,
-        "formats": ["PDF", "EPUB"],
+        "formats": ["PDF"],
         "downloads": 0,
         "category": "Fantasy",
         "downloadLink": "https://example.com/harry-potter-5.pdf"
@@ -42,7 +42,7 @@
         "description": "Harry unexpectedly competes in the dangerous Triwizard Tournament and faces challenges that test his courage and skill.",
         "cover": "https://via.placeholder.com/280x250?text=Goblet+of+Fire+Cover",
         "rating": 4.9,
-        "formats": ["PDF", "EPUB"],
+        "formats": ["PDF"],
         "downloads": 0,
         "category": "Fantasy",
         "downloadLink": "https://example.com/harry-potter-4.pdf"
@@ -54,7 +54,7 @@
         "description": "Harry learns about Sirius Black, a dangerous prisoner who has escaped from Azkaban and is believed to be after him.",
         "cover": "https://via.placeholder.com/280x250?text=Prisoner+of+Azkaban+Cover",
         "rating": 4.8,
-        "formats": ["PDF", "EPUB"],
+        "formats": ["PDF"],
         "downloads": 0,
         "category": "Fantasy",
         "downloadLink": "https://example.com/harry-potter-3.pdf"
@@ -64,9 +64,9 @@
         "title": "Harry Potter and the Chamber of Secrets",
         "author": "J.K. Rowling",
         "description": "Harry returns to Hogwarts and faces the dark secrets of the Chamber of Secrets, where a deadly monster has been unleashed.",
-        "cover": "https://via.placeholder.com/280x250?text=Chamber+of+Secrets+Cover",
+        "cover": "https://i.postimg.cc/Jn4BRxr8/Untitled-720-x-480-px.png",
         "rating": 4.7,
-        "formats": ["PDF", "EPUB"],
+        "formats": ["PDF"],
         "downloads": 0,
         "category": "Fantasy",
         "downloadLink": "https://example.com/harry-potter-2.pdf"
