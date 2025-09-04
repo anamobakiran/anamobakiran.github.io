@@ -1,7 +1,7 @@
 [
     {
         "id": "25",
-        "title": "The Return of the King (3)",
+        "title": "The Lord of the Rings: The Return of the King (3)",
         "author": "J.R.R. Tolkien",
         "description": "The final volume of The Lord of the Rings, where the forces of good make their last stand against Sauron and Frodo faces the ultimate trial to destroy the One Ring.",
         "cover": "https://i.postimg.cc/mgXKQQ0p/The-Return-of-the-King.png",
@@ -13,7 +13,7 @@
     },
     {
         "id": "24",
-        "title": "The Two Towers (2)",
+        "title": "The Lord of the Rings: The Two Towers (2)",
         "author": "J.R.R. Tolkien",
         "description": "The Fellowship is broken as Frodo and Sam journey to Mordor, while Aragorn, Legolas, and Gimli aid in the defense of Rohan against Saruman’s armies.",
         "cover": "https://i.postimg.cc/kXy05rwm/The-Two-Towers.png",
@@ -25,7 +25,7 @@
     },
     {
         "id": "23",
-        "title": "The Fellowship of the Ring (1)",
+        "title": "The Lord of the Rings: The Fellowship of the Ring (1)",
         "author": "J.R.R. Tolkien",
         "description": "The first volume of The Lord of the Rings introduces the journey of Frodo and the Fellowship as they set out to destroy the One Ring and resist the growing shadow of Sauron.",
         "cover": "https://i.postimg.cc/fynGVD6w/The-Fellowship-of-the-Ring.png",
