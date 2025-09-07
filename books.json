@@ -1,6 +1,6 @@
 [
     {
-        "id": "39",
+        "id": "38",
         "title": "Astrophysics for People in a Hurry",
         "author": "Neil deGrasse Tyson",
         "description": "A concise and witty introduction to astrophysics, explaining the universe in an accessible way for busy readers.",
@@ -12,7 +12,7 @@
         "downloadLink": "https://example.com/astrophysics-for-people-in-a-hurry.pdf"
     },
     {
-        "id": "38",
+        "id": "37",
         "title": "The Emperor of All Maladies",
         "author": "Siddhartha Mukherjee",
         "description": "A 'biography' of cancer, chronicling its history, treatment, and the ongoing human battle against the disease.",
@@ -24,7 +24,7 @@
         "downloadLink": "https://example.com/the-emperor-of-all-maladies.pdf"
     },
     {
-        "id": "37",
+        "id": "36",
         "title": "Chaos: Making a New Science",
         "author": "James Gleick",
         "description": "An introduction to chaos theory, exploring how complex and unpredictable systems shape our world.",
@@ -34,18 +34,6 @@
         "downloads": 0,
         "category": "Science",
         "downloadLink": "https://example.com/chaos-making-a-new-science.pdf"
-    },
-    {
-        "id": "36",
-        "title": "On the Shoulders of Giants",
-        "author": "Stephen Hawking",
-        "description": "An anthology of groundbreaking scientific writings by Galileo, Newton, Einstein, and more, with commentary by Stephen Hawking.",
-        "cover": "https://i.postimg.cc/8CkVtTHH/on-shoulders.png",
-        "rating": 4.5,
-        "formats": ["PDF"],
-        "downloads": 0,
-        "category": "Science",
-        "downloadLink": "https://example.com/on-the-shoulders-of-giants.pdf"
     },
     {
         "id": "35",
