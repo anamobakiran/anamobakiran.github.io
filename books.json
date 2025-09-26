@@ -1,5 +1,65 @@
 [
     {
+        "id": "56",
+        "title": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "description": "Nietzsche’s philosophical novel presenting ideas of the Übermensch, eternal recurrence, and the death of God.",
+        "cover": "https://i.postimg.cc/KYhzyhWC/Thus-Spoke-Zarathustra.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Philosophy",
+        "downloadLink": "https://example.com/zarathustra.pdf"
+    },
+    {
+        "id": "55",
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "description": "An existential classic about a detached man who becomes involved in a senseless crime, reflecting on absurdism.",
+        "cover": "https://i.postimg.cc/jdCCHXN3/The-Stranger.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Philosophy",
+        "downloadLink": "https://example.com/the-stranger.pdf"
+    },
+    {
+        "id": "54",
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "description": "A spiritual journey of self-discovery inspired by the life and teachings of the Buddha.",
+        "cover": "https://i.postimg.cc/FFT7kqf4/Siddhartha.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Philosophy",
+        "downloadLink": "https://example.com/siddhartha.pdf"
+    },
+    {
+        "id": "53",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "description": "A dystopian vision of a technologically advanced society obsessed with consumerism, control, and artificial happiness.",
+        "cover": "https://i.postimg.cc/KjpjXkXR/Brave-New-World.png",
+        "rating": 4.9,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/brave-new-world.pdf"
+    },
+    {
+        "id": "52",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "description": "A dystopian novel where books are outlawed and firemen burn them, exploring censorship, conformity, and resistance.",
+        "cover": "https://i.postimg.cc/cCLC57b2/Fahrenheit-451.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/fahrenheit-451.pdf"
+    },
+    {
         "id": "51",
         "title": "Still Me",
         "author": "Jojo Moyes",
