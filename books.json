@@ -1,29 +1,5 @@
 [
     {
-        "id": "48",
-        "title": "The Wedding",
-        "author": "Nicholas Sparks",
-        "description": "A heartfelt sequel to The Notebook, focusing on Wilson Lewis as he struggles to rekindle his marriage with Jane, with guidance from his father-in-law Noah Calhoun.",
-        "cover": "https://i.postimg.cc/KzkBCDwq/The-Wedding.png",
-        "rating": 4.5,
-        "formats": ["PDF"],
-        "downloads": 0,
-        "category": "Romance",
-        "downloadLink": "https://applocked.org/cl/i/4oqdw5"
-    },
-    {
-        "id": "47",
-        "title": "The Notebook",
-        "author": "Nicholas Sparks",
-        "description": "A timeless love story about Noah and Allie, two people from different worlds whose passionate romance faces the challenges of class, war, and time.",
-        "cover": "https://i.postimg.cc/mk931ySL/The-Notebook.png",
-        "rating": 4.8,
-        "formats": ["PDF"],
-        "downloads": 0,
-        "category": "Romance",
-        "downloadLink": "https://applocked.org/cl/i/1x5rlk"
-    },
-    {
         "id": "46",
         "title": "Pride and Prejudice",
         "author": "Jane Austen",
