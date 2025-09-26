@@ -1,5 +1,41 @@
 [
     {
+        "id": "51",
+        "title": "Still Me",
+        "author": "Jojo Moyes",
+        "description": "Louisa Clark embarks on a new adventure in New York, navigating love, friendship, and self-discovery while staying true to herself.",
+        "cover": "https://i.postimg.cc/jdR8WC1X/Still-Me.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://lockedapp.org/cl/i/xpvdm9"
+    },
+    {
+        "id": "50",
+        "title": "After You",
+        "author": "Jojo Moyes",
+        "description": "Picking up after the events of Me Before You, Louisa struggles to move forward and rebuild her life, finding hope in unexpected places.",
+        "cover": "https://i.postimg.cc/g2kB7rqp/After-You.png",
+        "rating": 4.4,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://lockedapp.org/cl/i/j78gdv"
+    },
+    {
+        "id": "49",
+        "title": "Me Before You",
+        "author": "Jojo Moyes",
+        "description": "The unforgettable love story of Louisa Clark and Will Traynor, a man left paralyzed after an accident, exploring themes of choice, love, and loss.",
+        "cover": "https://i.postimg.cc/6Qqg8TyR/Me-Before-You.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://pagelocked.org/cl/i/ex8o3k"
+    },
+    {
         "id": "48",
         "title": "The Wedding",
         "author": "Nicholas Sparks",
