@@ -1,5 +1,65 @@
 [
     {
+        "id": "71",
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "description": "A semi-autobiographical novel about a young woman’s descent into mental illness and her struggle to find identity.",
+        "cover": "https://i.postimg.cc/sf72HzdT/The-Bell-Jar.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/the-bell-jar.pdf"
+    },
+    {
+        "id": "70",
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "description": "The gothic tale of Victor Frankenstein, who creates a living being, only to face the tragic consequences of defying nature.",
+        "cover": "https://i.postimg.cc/cCbf98Pj/Frankenstein.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fantasy",
+        "downloadLink": "https://example.com/frankenstein.pdf"
+    },
+    {
+        "id": "69",
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "description": "The iconic gothic horror novel introducing Count Dracula and the legend of the vampire.",
+        "cover": "https://i.postimg.cc/ncD6hQ6Z/Dracula.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fantasy",
+        "downloadLink": "https://example.com/dracula.pdf"
+    },
+    {
+        "id": "68",
+        "title": "Notes from Underground",
+        "author": "Fyodor Dostoevsky",
+        "description": "A groundbreaking existentialist novella exploring alienation, free will, and the psychology of self-destruction.",
+        "cover": "https://i.postimg.cc/tTQ8FJcN/Notes-from-Underground.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Philosophy",
+        "downloadLink": "https://example.com/notes-from-underground.pdf"
+    },
+    {
+        "id": "67",
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "description": "A philosophical masterpiece exploring morality, faith, free will, and the conflict between reason and spirituality.",
+        "cover": "https://i.postimg.cc/sgqXWzR3/The-Brothers-Karamazov.png",
+        "rating": 4.9,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Philosophy",
+        "downloadLink": "https://example.com/the-brothers-karamazov.pdf"
+    },
+    {
         "id": "66",
         "title": "Crime and Punishment",
         "author": "Fyodor Dostoevsky",
