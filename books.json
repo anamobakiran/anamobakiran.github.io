@@ -1,5 +1,65 @@
 [
     {
+        "id": "15",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "description": "A psychological and philosophical novel about guilt, redemption, and morality following a young man’s crime in St. Petersburg.",
+        "cover": "https://i.postimg.cc/FKscbhrH/Crime-and-Punishment.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Mystery",
+        "downloadLink": "https://example.com/crime-and-punishment.pdf"
+    },
+    {
+        "id": "14",
+        "title": "Cat’s Cradle",
+        "author": "Kurt Vonnegut",
+        "description": "A satirical science fiction novel exploring science, religion, and the end of the world.",
+        "cover": "https://i.postimg.cc/hGb5W7f9/Cats-Cradle.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Science",
+        "downloadLink": "https://example.com/cats-cradle.pdf"
+    },
+    {
+        "id": "13",
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "description": "A darkly humorous science fiction novel about a soldier’s experiences in World War II and his journeys through time.",
+        "cover": "https://i.postimg.cc/Y94fB3SC/Slaughterhouse-Five.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/slaughterhouse-five.pdf"
+    },
+    {
+        "id": "12",
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "description": "A satirical novel about the absurdity of war, bureaucracy, and the struggle to maintain sanity during World War II.",
+        "cover": "https://i.postimg.cc/4xN8CMrD/Catch-22.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/catch-22.pdf"
+    },
+    {
+        "id": "11",
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "description": "A moving story about a family’s struggle during the Great Depression as they migrate to California in search of a better life.",
+        "cover": "https://i.postimg.cc/KzRNHb7c/Grapes-of-Wrath.png",
+        "rating": 4.9,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "History",
+        "downloadLink": "https://example.com/grapes-of-wrath.pdf"
+    },
+    {
         "id": "61",
         "title": "East of Eden",
         "author": "John Steinbeck",
