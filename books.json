@@ -1,5 +1,65 @@
 [
     {
+        "id": "76",
+        "title": "Educated",
+        "author": "Tara Westover",
+        "description": "A memoir of a woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
+        "cover": "https://i.postimg.cc/BntvM4hT/Educated.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Biography",
+        "downloadLink": "https://example.com/educated.pdf"
+    },
+    {
+        "id": "75",
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "description": "The story of Henrietta Lacks and the immortal cell line, HeLa, that came from her cancer cells without her knowledge, changing medical research forever.",
+        "cover": "https://i.postimg.cc/ZqNptbnj/Henrietta-Lacks.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Science",
+        "downloadLink": "https://example.com/henrietta-lacks.pdf"
+    },
+    {
+        "id": "74",
+        "title": "Man’s Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "description": "A Holocaust survivor’s reflections on finding meaning in life, even in the darkest circumstances, through his experiences in Nazi concentration camps.",
+        "cover": "https://i.postimg.cc/4dkYxN43/Mans-Search-for-Meaning.png",
+        "rating": 4.9,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Philosophy",
+        "downloadLink": "https://example.com/mans-search-for-meaning.pdf"
+    },
+    {
+        "id": "73",
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "description": "The poignant diary of Anne Frank, a young Jewish girl hiding from the Nazis in Amsterdam during World War II.",
+        "cover": "https://i.postimg.cc/T3LMXynk/Diary-of-Anne-Frank.png",
+        "rating": 5.0,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "History",
+        "downloadLink": "https://example.com/anne-frank-diary.pdf"
+    },
+    {
+        "id": "72",
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "description": "A groundbreaking true crime narrative about the brutal murder of a Kansas family and its chilling aftermath.",
+        "cover": "https://i.postimg.cc/HL0yNQrh/In-Cold-Blood.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Mystery",
+        "downloadLink": "https://example.com/in-cold-blood.pdf"
+    },
+    {
         "id": "71",
         "title": "The Bell Jar",
         "author": "Sylvia Plath",
