@@ -1,5 +1,65 @@
 [
     {
+        "id": "10",
+        "title": "East of Eden",
+        "author": "John Steinbeck",
+        "description": "A sweeping novel about two families in California, exploring good and evil, love, and betrayal.",
+        "cover": "https://i.postimg.cc/3R06YQmY/East-of-Eden.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/east-of-eden.pdf"
+    },
+    {
+        "id": "9",
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "description": "A tragic story of two displaced migrant workers during the Great Depression pursuing their dream of owning land.",
+        "cover": "https://i.postimg.cc/85qv78L0/Of-Mice-and-Men.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/of-mice-and-men.pdf"
+    },
+    {
+        "id": "8",
+        "title": "A Farewell to Arms",
+        "author": "Ernest Hemingway",
+        "description": "A tragic romance set during World War I, following the love between an American ambulance driver and a British nurse.",
+        "cover": "https://i.postimg.cc/SxVnJxWk/A-Farewell-to-Arms.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/a-farewell-to-arms.pdf"
+    },
+    {
+        "id": "7",
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "description": "The story of an aging Cuban fisherman’s epic struggle with a giant marlin far out in the Gulf Stream.",
+        "cover": "https://i.postimg.cc/jqWhDSp9/The-Old-Man-and-the-Sea.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/the-old-man-and-the-sea.pdf"
+    },
+    {
+        "id": "6",
+        "title": "Meditations",
+        "author": "Marcus Aurelius",
+        "description": "The timeless reflections of the Roman emperor on stoic philosophy, virtue, and self-mastery.",
+        "cover": "https://i.postimg.cc/T3yL7ZQs/Meditations.png",
+        "rating": 5.0,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Philosophy",
+        "downloadLink": "https://example.com/meditations.pdf"
+    },
+    {
         "id": "56",
         "title": "Thus Spoke Zarathustra",
         "author": "Friedrich Nietzsche",
