@@ -8,7 +8,7 @@
         "rating": 4.6,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Psychology",
+        "category": "Philosophy",
         "downloadLink": "https://example.com/flow.pdf"
     },
     {
@@ -20,7 +20,7 @@
         "rating": 4.7,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Self-Help",
+        "category": "Philosophy",
         "downloadLink": "https://example.com/daring-greatly.pdf"
     },
     {
@@ -32,7 +32,7 @@
         "rating": 4.4,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Self-Help",
+        "category": "Philosophy",
         "downloadLink": "https://example.com/the-happiness-project.pdf"
     },
     {
@@ -44,7 +44,7 @@
         "rating": 4.5,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Self-Help",
+        "category": "Philosophy",
         "downloadLink": "https://example.com/make-your-bed.pdf"
     },
     {
@@ -56,7 +56,7 @@
         "rating": 4.6,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Creativity",
+        "category": "Philosophy",
         "downloadLink": "https://example.com/the-war-of-art.pdf"
     },
     {
