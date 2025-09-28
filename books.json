@@ -1,5 +1,65 @@
 [
     {
+        "id": "81",
+        "title": "Flow",
+        "author": "Mihaly Csikszentmihalyi",
+        "description": "A pioneering book on the psychology of optimal experience and how to achieve deep enjoyment and creativity.",
+        "cover": "https://i.postimg.cc/qRtL3QJr/flow.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Psychology",
+        "downloadLink": "https://example.com/flow.pdf"
+    },
+    {
+        "id": "80",
+        "title": "Daring Greatly",
+        "author": "Brené Brown",
+        "description": "A book about embracing vulnerability as a strength and living a more courageous and connected life.",
+        "cover": "https://i.postimg.cc/k5z6TtM0/daring-greatly.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/daring-greatly.pdf"
+    },
+    {
+        "id": "79",
+        "title": "The Happiness Project",
+        "author": "Gretchen Rubin",
+        "description": "An engaging memoir and guide on how to pursue happiness through small, intentional lifestyle changes.",
+        "cover": "https://i.postimg.cc/25CP8nC9/happiness-project.png",
+        "rating": 4.4,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/the-happiness-project.pdf"
+    },
+    {
+        "id": "78",
+        "title": "Make Your Bed",
+        "author": "Admiral William H. McRaven",
+        "description": "A short but powerful book sharing life lessons from Navy SEAL training about discipline, resilience, and leadership.",
+        "cover": "https://i.postimg.cc/0j3ZtNws/make-your-bed.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/make-your-bed.pdf"
+    },
+    {
+        "id": "77",
+        "title": "The War of Art",
+        "author": "Steven Pressfield",
+        "description": "A motivational guide for creatives, tackling procrastination and resistance to unlock true potential.",
+        "cover": "https://i.postimg.cc/Y0MSxQgC/war-of-art.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Creativity",
+        "downloadLink": "https://example.com/the-war-of-art.pdf"
+    }
+    {
         "id": "76",
         "title": "Educated",
         "author": "Tara Westover",
