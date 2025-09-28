@@ -1,5 +1,65 @@
 [
     {
+        "id": "85",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "description": "A personal finance classic contrasting two financial mindsets and teaching the basics of building wealth.",
+        "cover": "https://i.postimg.cc/7Z9pbnqV/rich-dad.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Finance",
+        "downloadLink": "https://example.com/rich-dad-poor-dad.pdf"
+    },
+    {
+        "id": "84",
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "description": "A business book introducing lean startup methodology, focusing on innovation, testing, and sustainable growth.",
+        "cover": "https://i.postimg.cc/kXjXyqGt/lean-startup.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Business",
+        "downloadLink": "https://example.com/lean-startup.pdf"
+    },
+    {
+        "id": "83",
+        "title": "Start with Why",
+        "author": "Simon Sinek",
+        "description": "A book on leadership and inspiration, emphasizing the power of purpose in driving success.",
+        "cover": "https://i.postimg.cc/Y0FGJYB9/start-with-why.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Leadership",
+        "downloadLink": "https://example.com/start-with-why.pdf"
+    },
+    {
+        "id": "82",
+        "title": "Mindset",
+        "author": "Carol S. Dweck",
+        "description": "A groundbreaking book introducing the concepts of fixed mindset vs. growth mindset and their impact on success.",
+        "cover": "https://i.postimg.cc/D0St0mwx/mindset.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Psychology",
+        "downloadLink": "https://example.com/mindset.pdf"
+    },
+    {
+        "id": "81",
+        "title": "Drive",
+        "author": "Daniel H. Pink",
+        "description": "Explores what truly motivates people, focusing on autonomy, mastery, and purpose rather than external rewards.",
+        "cover": "https://i.postimg.cc/L6gRdjPf/drive.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Psychology",
+        "downloadLink": "https://example.com/drive.pdf"
+    },
+    {
         "id": "80",
         "title": "Daring Greatly",
         "author": "Brené Brown",
