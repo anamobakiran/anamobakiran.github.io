@@ -1,5 +1,29 @@
 [
     {
+        "id": "97",
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "description": "A refreshing self-help book that teaches readers how to focus on what truly matters by letting go of meaningless worries.",
+        "cover": "https://i.postimg.cc/vm6T2tRQ/the-subtle-art.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/the-subtle-art.pdf"
+    },
+    {
+        "id": "96",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "description": "A guide to building good habits and breaking bad ones using small, consistent changes that compound over time.",
+        "cover": "https://i.postimg.cc/v8bdvnDR/atomic-habits.png",
+        "rating": 4.9,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/atomic-habits.pdf"
+    },
+    {
         "id": "95",
         "title": "Can’t Hurt Me",
         "author": "David Goggins",
