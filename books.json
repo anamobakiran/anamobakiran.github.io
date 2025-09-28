@@ -1,5 +1,65 @@
 [
     {
+        "id": "20",
+        "title": "Can’t Hurt Me",
+        "author": "David Goggins",
+        "description": "The inspiring memoir of Navy SEAL David Goggins, emphasizing mental toughness, discipline, and pushing past limits.",
+        "cover": "https://i.postimg.cc/pX0N4fGn/cant-hurt-me.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Memoir",
+        "downloadLink": "https://example.com/cant-hurt-me.pdf"
+    },
+    {
+        "id": "19",
+        "title": "The 48 Laws of Power",
+        "author": "Robert Greene",
+        "description": "A controversial yet widely popular book on power dynamics, manipulation, and strategies for success.",
+        "cover": "https://i.postimg.cc/8cK0WJnt/48-laws.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Strategy",
+        "downloadLink": "https://example.com/48-laws-of-power.pdf"
+    },
+    {
+        "id": "18",
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen R. Covey",
+        "description": "A classic guide to personal effectiveness, productivity, and leadership through timeless habits.",
+        "cover": "https://i.postimg.cc/qqR6Jdmy/7-habits.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/7-habits.pdf"
+    },
+    {
+        "id": "17",
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "description": "An exploration of how focused, distraction-free work can drive extraordinary productivity and success.",
+        "cover": "https://i.postimg.cc/jddgX8tR/deep-work.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Productivity",
+        "downloadLink": "https://example.com/deep-work.pdf"
+    },
+    {
+        "id": "16",
+        "title": "The Power of Now",
+        "author": "Eckhart Tolle",
+        "description": "A spiritual guide teaching the importance of living fully in the present moment to find peace and fulfillment.",
+        "cover": "https://i.postimg.cc/xjQ1Hv0H/power-of-now.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Spirituality",
+        "downloadLink": "https://example.com/power-of-now.pdf"
+    },
+    {
         "id": "90",
         "title": "Thinking, Fast and Slow",
         "author": "Daniel Kahneman",
