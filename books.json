@@ -1,6 +1,6 @@
 [
     {
-        "id": "20",
+        "id": "95",
         "title": "Can’t Hurt Me",
         "author": "David Goggins",
         "description": "The inspiring memoir of Navy SEAL David Goggins, emphasizing mental toughness, discipline, and pushing past limits.",
@@ -12,7 +12,7 @@
         "downloadLink": "https://example.com/cant-hurt-me.pdf"
     },
     {
-        "id": "19",
+        "id": "94",
         "title": "The 48 Laws of Power",
         "author": "Robert Greene",
         "description": "A controversial yet widely popular book on power dynamics, manipulation, and strategies for success.",
@@ -24,7 +24,7 @@
         "downloadLink": "https://example.com/48-laws-of-power.pdf"
     },
     {
-        "id": "18",
+        "id": "93",
         "title": "The 7 Habits of Highly Effective People",
         "author": "Stephen R. Covey",
         "description": "A classic guide to personal effectiveness, productivity, and leadership through timeless habits.",
@@ -36,7 +36,7 @@
         "downloadLink": "https://example.com/7-habits.pdf"
     },
     {
-        "id": "17",
+        "id": "92",
         "title": "Deep Work",
         "author": "Cal Newport",
         "description": "An exploration of how focused, distraction-free work can drive extraordinary productivity and success.",
@@ -48,7 +48,7 @@
         "downloadLink": "https://example.com/deep-work.pdf"
     },
     {
-        "id": "16",
+        "id": "91",
         "title": "The Power of Now",
         "author": "Eckhart Tolle",
         "description": "A spiritual guide teaching the importance of living fully in the present moment to find peace and fulfillment.",
