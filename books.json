@@ -1,17 +1,5 @@
 [
     {
-        "id": "81",
-        "title": "Flow",
-        "author": "Mihaly Csikszentmihalyi",
-        "description": "A pioneering book on the psychology of optimal experience and how to achieve deep enjoyment and creativity.",
-        "cover": "https://i.postimg.cc/qRtL3QJr/flow.png",
-        "rating": 4.6,
-        "formats": ["PDF"],
-        "downloads": 0,
-        "category": "Philosophy",
-        "downloadLink": "https://example.com/flow.pdf"
-    },
-    {
         "id": "80",
         "title": "Daring Greatly",
         "author": "Brené Brown",
@@ -20,7 +8,7 @@
         "rating": 4.7,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Philosophy",
+        "category": "Self-Help",
         "downloadLink": "https://example.com/daring-greatly.pdf"
     },
     {
@@ -32,19 +20,19 @@
         "rating": 4.4,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Philosophy",
+        "category": "Self-Help",
         "downloadLink": "https://example.com/the-happiness-project.pdf"
     },
     {
         "id": "78",
         "title": "Make Your Bed",
-        "author": "William H. McRaven",
+        "author": "Admiral William H. McRaven",
         "description": "A short but powerful book sharing life lessons from Navy SEAL training about discipline, resilience, and leadership.",
         "cover": "https://i.postimg.cc/0j3ZtNws/make-your-bed.png",
         "rating": 4.5,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Philosophy",
+        "category": "Self-Help",
         "downloadLink": "https://example.com/make-your-bed.pdf"
     },
     {
@@ -56,7 +44,7 @@
         "rating": 4.6,
         "formats": ["PDF"],
         "downloads": 0,
-        "category": "Philosophy",
+        "category": "Creativity",
         "downloadLink": "https://example.com/the-war-of-art.pdf"
     },
     {
