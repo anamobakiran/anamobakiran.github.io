@@ -1,5 +1,65 @@
 [
     {
+        "id": "90",
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "description": "A deep dive into the two systems of human thought: fast, intuitive thinking and slow, logical reasoning.",
+        "cover": "https://i.postimg.cc/fL1fMzgD/thinking-fast-slow.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Psychology",
+        "downloadLink": "https://example.com/thinking-fast-and-slow.pdf"
+    },
+    {
+        "id": "89",
+        "title": "Outliers",
+        "author": "Malcolm Gladwell",
+        "description": "An exploration of the hidden factors behind extraordinary success, from culture to opportunity and hard work.",
+        "cover": "https://i.postimg.cc/25y6ZCpc/outliers.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Psychology",
+        "downloadLink": "https://example.com/outliers.pdf"
+    },
+    {
+        "id": "88",
+        "title": "The Tipping Point",
+        "author": "Malcolm Gladwell",
+        "description": "An analysis of how small actions or events can create tipping points leading to large-scale social change.",
+        "cover": "https://i.postimg.cc/cCQBSkZQ/tipping-point.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Sociology",
+        "downloadLink": "https://example.com/tipping-point.pdf"
+    },
+    {
+        "id": "87",
+        "title": "Grit",
+        "author": "Angela Duckworth",
+        "description": "A motivational book showing how perseverance and passion can be more important than talent for success.",
+        "cover": "https://i.postimg.cc/zX9mVNTk/grit.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/grit.pdf"
+    },
+    {
+        "id": "86",
+        "title": "You Are a Badass",
+        "author": "Jen Sincero",
+        "description": "A fun, motivational self-help book filled with humor and practical advice to build confidence and success.",
+        "cover": "https://i.postimg.cc/0NmrbWw1/you-are-a-badass.png",
+        "rating": 4.4,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/you-are-a-badass.pdf"
+    },
+    {
         "id": "85",
         "title": "Rich Dad Poor Dad",
         "author": "Robert Kiyosaki",
