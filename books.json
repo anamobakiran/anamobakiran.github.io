@@ -1,5 +1,65 @@
 [
     {
+        "id": "107",
+        "title": "Verity",
+        "author": "Colleen Hoover",
+        "description": "A psychological thriller where a writer uncovers disturbing secrets while finishing another author’s book series.",
+        "cover": "https://i.postimg.cc/VNqkLWd0/Verity.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Thriller",
+        "downloadLink": "https://example.com/verity.pdf"
+    },
+    {
+        "id": "106",
+        "title": "Archer’s Voice",
+        "author": "Mia Sheridan",
+        "description": "A heartfelt romance about a woman healing from loss and a man who has lived in silence.",
+        "cover": "https://i.postimg.cc/tT3kHcTr/Archers-Voice.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/archers-voice.pdf"
+    },
+    {
+        "id": "105",
+        "title": "Before We Were Strangers",
+        "author": "Renée Carlino",
+        "description": "A second-chance romance about college sweethearts who reconnect years later through a missed connection ad.",
+        "cover": "https://i.postimg.cc/VLg9XWv7/Before-We-Were-Strangers.png",
+        "rating": 4.3,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/before-we-were-strangers.pdf"
+    },
+    {
+        "id": "104",
+        "title": "The Song of Achilles",
+        "author": "Madeline Miller",
+        "description": "A lyrical retelling of the Iliad through the love story of Achilles and Patroclus.",
+        "cover": "https://i.postimg.cc/90Whn5jK/The-Song-of-Achilles.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Historical Fiction",
+        "downloadLink": "https://example.com/the-song-of-achilles.pdf"
+    },
+    {
+        "id": "103",
+        "title": "Circe",
+        "author": "Madeline Miller",
+        "description": "A feminist retelling of the myth of Circe, the enchantress banished to an island where she discovers her true power.",
+        "cover": "https://i.postimg.cc/W1t5zgMx/Circe.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Historical Fiction",
+        "downloadLink": "https://example.com/circe.pdf"
+    },
+    {
         "id": "102",
         "title": "All the Light We Cannot See",
         "author": "Anthony Doerr",
