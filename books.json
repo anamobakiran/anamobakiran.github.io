@@ -1,5 +1,65 @@
 [
     {
+        "id": "112",
+        "title": "Happy Place",
+        "author": "Emily Henry",
+        "description": "A heartfelt romance about a couple pretending to still be together during a summer getaway with friends.",
+        "cover": "https://i.postimg.cc/vmZjnV1k/Happy-Place.png",
+        "rating": 4.4,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/happy-place.pdf"
+    },
+    {
+        "id": "111",
+        "title": "People We Meet on Vacation",
+        "author": "Emily Henry",
+        "description": "A delightful friends-to-lovers romance about two best friends reuniting after years apart.",
+        "cover": "https://i.postimg.cc/4d8Nfcvq/People-We-Meet.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/people-we-meet-on-vacation.pdf"
+    },
+    {
+        "id": "110",
+        "title": "November 9",
+        "author": "Colleen Hoover",
+        "description": "A romance about fate and timing, where two people meet on the same day every year.",
+        "cover": "https://i.postimg.cc/fbPZrNZP/November-9.png",
+        "rating": 4.3,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/november-9.pdf"
+    },
+    {
+        "id": "109",
+        "title": "Reminders of Him",
+        "author": "Colleen Hoover",
+        "description": "A mother’s emotional journey of redemption and reconnection with her daughter after prison.",
+        "cover": "https://i.postimg.cc/85m6H8n2/Reminders-of-Him.png",
+        "rating": 4.4,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/reminders-of-him.pdf"
+    },
+    {
+        "id": "108",
+        "title": "Ugly Love",
+        "author": "Colleen Hoover",
+        "description": "An emotional, steamy romance about love, pain, and healing between two broken souls.",
+        "cover": "https://i.postimg.cc/6pB8fTSL/Ugly-Love.png",
+        "rating": 4.2,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/ugly-love.pdf"
+    },
+    {
         "id": "107",
         "title": "Verity",
         "author": "Colleen Hoover",
