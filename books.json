@@ -1,5 +1,77 @@
 [
     {
+        "id": "123",
+        "title": "Chapterhouse: Dune (6)",
+        "author": "Frank Herbert",
+        "description": "The Bene Gesserit struggle to maintain control after the fall of the God Emperor, navigating intrigue and threats from the Honored Matres.",
+        "cover": "https://i.postimg.cc/BQFc4m9J/Chapterhouse-Dune.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/chapterhouse-dune.pdf"
+    },
+    {
+        "id": "122",
+        "title": "Heretics of Dune (5)",
+        "author": "Frank Herbert",
+        "description": "Centuries after the God Emperor’s reign, a new generation confronts shifting powers, ancient secrets, and the dangerous return of old enemies.",
+        "cover": "https://i.postimg.cc/fTnBrt5w/Heretics-of-Dune.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/heretics-of-dune.pdf"
+    },
+    {
+        "id": "121",
+        "title": "God Emperor of Dune (4)",
+        "author": "Frank Herbert",
+        "description": "Set thousands of years after Paul Atreides, Leto II rules as a near-immortal tyrant, guiding humanity through a vision of ultimate survival.",
+        "cover": "https://i.postimg.cc/BbDb07yS/God-Emperor-of-Dune.png",
+        "rating": 4.4,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/god-emperor-of-dune.pdf"
+    },
+    {
+        "id": "120",
+        "title": "Children of Dune (3)",
+        "author": "Frank Herbert",
+        "description": "The heirs of Paul Atreides face political conspiracies and mystical destinies as the future of the Dune universe hangs in the balance.",
+        "cover": "https://i.postimg.cc/sD1G9g5N/Children-of-Dune.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/children-of-dune.pdf"
+    },
+    {
+        "id": "119",
+        "title": "Dune Messiah (2)",
+        "author": "Frank Herbert",
+        "description": "Paul Atreides, now Emperor, faces conspiracies and the heavy burden of prescience as his rule sparks religious and political upheaval.",
+        "cover": "https://i.postimg.cc/fyNh4yCB/Dune-Messiah.png",
+        "rating": 4.3,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/dune-messiah.pdf"
+    },
+    {
+        "id": "118",
+        "title": "Dune (1)",
+        "author": "Frank Herbert",
+        "description": "A science fiction masterpiece about Paul Atreides, who rises amidst politics, prophecy, and war on the desert planet Arrakis, home to the spice melange.",
+        "cover": "https://i.postimg.cc/FFSzPjpW/Dune.png",
+        "rating": 5.0,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/dune.pdf"
+    },
+    {
         "id": "117",
         "title": "The Light We Lost",
         "author": "Jill Santopolo",
