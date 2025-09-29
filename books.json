@@ -1,5 +1,65 @@
 [
     {
+        "id": "102",
+        "title": "All the Light We Cannot See",
+        "author": "Anthony Doerr",
+        "description": "A Pulitzer Prize-winning WWII novel following a blind French girl and a German boy whose paths collide.",
+        "cover": "https://i.postimg.cc/NfcwJjCb/All-the-Light.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Historical Fiction",
+        "downloadLink": "https://example.com/all-the-light-we-cannot-see.pdf"
+    },
+    {
+        "id": "101",
+        "title": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "description": "An emotional epic of friendship, trauma, and survival in New York City.",
+        "cover": "https://i.postimg.cc/7LTXjK6P/A-Little-Life.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/a-little-life.pdf"
+    },
+    {
+        "id": "100",
+        "title": "Eleanor Oliphant Is Completely Fine",
+        "author": "Gail Honeyman",
+        "description": "A quirky and uplifting story about loneliness, kindness, and the power of human connection.",
+        "cover": "https://i.postimg.cc/hjWqMGfN/Eleanor-Oliphant.png",
+        "rating": 4.4,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/eleanor-oliphant.pdf"
+    },
+    {
+        "id": "99",
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "description": "A heartbreaking yet inspiring love story between two teenagers with cancer.",
+        "cover": "https://i.postimg.cc/4Nn5pM7s/The-Fault-in-Our-Stars.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Romance",
+        "downloadLink": "https://example.com/the-fault-in-our-stars.pdf"
+    },
+    {
+        "id": "98",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "description": "A powerful WWII novel narrated by Death, about a young girl who finds solace in books during Nazi Germany.",
+        "cover": "https://i.postimg.cc/mrjz4pRt/The-Book-Thief.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Historical Fiction",
+        "downloadLink": "https://example.com/the-book-thief.pdf"
+    }
+    {
         "id": "97",
         "title": "The Subtle Art of Not Giving a F*ck",
         "author": "Mark Manson",
