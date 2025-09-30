@@ -1,5 +1,65 @@
 [
     {
+        "id": "133",
+        "title": "Anxious People",
+        "author": "Fredrik Backman",
+        "description": "A comic yet profound novel about a failed bank robbery that turns into an unexpected hostage situation.",
+        "cover": "https://i.postimg.cc/50WdcVr7/Anxious-People.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/anxious-people.pdf"
+    },
+    {
+        "id": "132",
+        "title": "Beartown",
+        "author": "Fredrik Backman",
+        "description": "A powerful drama about community, loyalty, and the dark truths beneath a small town obsessed with hockey.",
+        "cover": "https://i.postimg.cc/Y2Q9P5Fw/Beartown.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/beartown.pdf"
+    },
+    {
+        "id": "131",
+        "title": "The Vanishing Half",
+        "author": "Brit Bennett",
+        "description": "A compelling novel about twin sisters who live very different lives, one passing as white while the other embraces her Black identity.",
+        "cover": "https://i.postimg.cc/dtrLHH8C/The-Vanishing-Half.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/the-vanishing-half.pdf"
+    },
+    {
+        "id": "130",
+        "title": "The Mothers",
+        "author": "Brit Bennett",
+        "description": "A poignant story about friendship, community, and the lasting impact of youthful choices.",
+        "cover": "https://i.postimg.cc/FsNzZdtM/The-Mothers.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/the-mothers.pdf"
+    },
+    {
+        "id": "129",
+        "title": "Pachinko",
+        "author": "Min Jin Lee",
+        "description": "A generational saga about a Korean family in Japan struggling with identity, discrimination, and resilience.",
+        "cover": "https://i.postimg.cc/wjq3mqDL/Pachinko.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Fiction",
+        "downloadLink": "https://example.com/pachinko.pdf"
+    },
+    {
         "id": "128",
         "title": "Free Food for Millionaires",
         "author": "Min Jin Lee",
