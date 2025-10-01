@@ -1,5 +1,65 @@
 [
     {
+        "id": "148",
+        "title": "Stolen Focus",
+        "author": "Johann Hari",
+        "description": "Examines the causes of declining attention spans and offers ways to reclaim focus.",
+        "cover": "https://i.postimg.cc/RZg0Rbhd/Stolen-Focus.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/stolen-focus.pdf"
+    },
+    {
+        "id": "147",
+        "title": "Flow: The Psychology of Optimal Experience",
+        "author": "Mihaly Csikszentmihalyi",
+        "description": "Explores the state of 'flow'—being fully immersed in activities—and its role in happiness.",
+        "cover": "https://i.postimg.cc/nrRYKykL/Flow.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/flow.pdf"
+    },
+    {
+        "id": "146",
+        "title": "The Gifts of Imperfection",
+        "author": "Brené Brown",
+        "description": "Encourages embracing vulnerability and authenticity as keys to living fully.",
+        "cover": "https://i.postimg.cc/RVrG1ZgB/The-Gifts-of-Imperfection.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/the-gifts-of-imperfection.pdf"
+    },
+    {
+        "id": "145",
+        "title": "Radical Acceptance",
+        "author": "Tara Brach",
+        "description": "Blends Buddhist teachings and psychology to help overcome self-judgment and embrace life fully.",
+        "cover": "https://i.postimg.cc/L8jdF5VL/Radical-Acceptance.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/radical-acceptance.pdf"
+    },
+    {
+        "id": "144",
+        "title": "Self-Compassion",
+        "author": "Kristin Neff",
+        "description": "Introduces the science and practice of self-compassion as a healthier alternative to self-criticism.",
+        "cover": "https://i.postimg.cc/vT8tcnCB/Self-Compassion.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://example.com/self-compassion.pdf"
+    },
+    {
         "id": "143",
         "title": "The Goldfinch",
         "author": "Donna Tartt",
