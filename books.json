@@ -1,5 +1,65 @@
 [
     {
+        "id": "158",
+        "title": "Unlimited Power",
+        "author": "Tony Robbins",
+        "description": "Explores the power of NLP and psychology for achieving peak performance and self-mastery.",
+        "cover": "https://i.postimg.cc/9QQZx7yG/Unlimited-Power.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://lockverify.org/cl/i/7j79o5"
+    },
+    {
+        "id": "157",
+        "title": "The Magic of Thinking Big",
+        "author": "David J. Schwartz",
+        "description": "Teaches how to set higher goals, overcome fear, and think positively to achieve success.",
+        "cover": "https://i.postimg.cc/hPrVbrQK/The-Magic-of-Thinking-Big.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://pagelocked.org/cl/i/grqkn2"
+    },
+    {
+        "id": "156",
+        "title": "The Untethered Soul",
+        "author": "Michael A. Singer",
+        "description": "Explores inner peace and freedom by understanding consciousness and letting go of limitations.",
+        "cover": "https://i.postimg.cc/pXxDF7T7/The-Untethered-Soul.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://pagelocked.org/cl/i/827w6r"
+    },
+    {
+        "id": "155",
+        "title": "You Can Heal Your Life",
+        "author": "Louise Hay",
+        "description": "A groundbreaking book showing how thoughts and beliefs affect health and well-being.",
+        "cover": "https://i.postimg.cc/ZY680ZTq/You-Can-Heal-Your-Life.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://pagelocked.org/cl/i/6n7lqe"
+    },
+    {
+        "id": "154",
+        "title": "The Four Agreements",
+        "author": "Don Miguel Ruiz",
+        "description": "Reveals the path to personal freedom through four simple but profound agreements.",
+        "cover": "https://i.postimg.cc/prMKkcJw/The-Four-Agreements.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://lockedapp.org/cl/i/w6q1wm"
+    },
+    {
         "id": "153",
         "title": "The Mastery of Love",
         "author": "Don Miguel Ruiz",
