@@ -1,5 +1,65 @@
 [
     {
+        "id": "153",
+        "title": "The Mastery of Love",
+        "author": "Don Miguel Ruiz",
+        "description": "Offers wisdom for building healthier relationships and healing emotional wounds.",
+        "cover": "https://i.postimg.cc/HWJrhJ9Q/The-Mastery-of-Love.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://lockverify.org/cl/i/27x2np"
+    },
+    {
+        "id": "152",
+        "title": "The Courage to Be Disliked",
+        "author": "Ichiro Kishimi & Fumitake Koga",
+        "description": "A philosophical dialogue exploring Adlerian psychology and how to find true freedom and happiness.",
+        "cover": "https://i.postimg.cc/w388W4ck/The-Courage-to-Be-Disliked.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://applocked.org/cl/i/ve93px"
+    },
+    {
+        "id": "151",
+        "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+        "author": "Héctor García & Francesc Miralles",
+        "description": "Introduces the Japanese concept of 'ikigai'—a reason for living—and how to discover yours.",
+        "cover": "https://i.postimg.cc/XJP05YZW/Ikigai-The-Japanese-Secret-to-a-Long-and-Happy-Life.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://pagelocked.org/cl/i/n62xn9"
+    },
+    {
+        "id": "150",
+        "title": "The Monk Who Sold His Ferrari",
+        "author": "Robin Sharma",
+        "description": "A fable blending self-help and spirituality about a lawyer’s journey to enlightenment.",
+        "cover": "https://i.postimg.cc/k4GmDbgv/The-Monk-Who-Sold-His-Ferrari.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://lockverify.org/cl/i/kr724g"
+    },
+    {
+        "id": "149",
+        "title": "Essentialism: The Disciplined Pursuit of Less",
+        "author": "Greg McKeown",
+        "description": "A practical guide to focusing on what truly matters by eliminating the nonessential.",
+        "cover": "https://i.postimg.cc/wB0z6VgY/Essentialism-The-Disciplined-Pursuit-of-Less.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://pagelocked.org/cl/i/rnd69k"
+    },
+    {
         "id": "148",
         "title": "Stolen Focus",
         "author": "Johann Hari",
