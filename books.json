@@ -1,5 +1,65 @@
 [
     {
+        "id": "163",
+        "title": "The 5 AM Club",
+        "author": "Robin Sharma",
+        "description": "A guide to transforming your life by rising early, maximizing productivity, and nurturing personal growth.",
+        "cover": "https://i.postimg.cc/5NJzDfP6/The-5-AM-Club.png",
+        "rating": 4.6,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://lockverify.org/cl/i/827wj6"
+    },
+    {
+        "id": "162",
+        "title": "Who Moved My Cheese?",
+        "author": "Spencer Johnson",
+        "description": "A simple parable offering insights on how to deal with change in work and life.",
+        "cover": "https://i.postimg.cc/7h32bRLb/Who-Moved-My-Cheese.png",
+        "rating": 4.5,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://applocked.org/cl/i/w6q1n7"
+    },
+    {
+        "id": "161",
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "description": "A timeless classic teaching the principles of success and wealth creation through mindset and persistence.",
+        "cover": "https://i.postimg.cc/0jRSkvP4/Think-and-Grow-Rich.png",
+        "rating": 4.8,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://lockedapp.org/cl/i/l7qeg6"
+    },
+    {
+        "id": "160",
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "description": "A foundational guide to improving communication, relationships, and influence.",
+        "cover": "https://i.postimg.cc/LsW-fWf7g/How-to-Win-Friends-and-Influence-People.png",
+        "rating": 4.9,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://lockedapp.org/cl/i/j78vgo"
+    },
+    {
+        "id": "159",
+        "title": "Awaken the Giant Within",
+        "author": "Tony Robbins",
+        "description": "Practical strategies to take control of your emotions, finances, relationships, and life.",
+        "cover": "https://i.postimg.cc/mrkCVVmj/Awaken-the-Giant-Within.png",
+        "rating": 4.7,
+        "formats": ["PDF"],
+        "downloads": 0,
+        "category": "Self-Help",
+        "downloadLink": "https://lockedapp.org/cl/i/ex84om"
+    },
+    {
         "id": "158",
         "title": "Unlimited Power",
         "author": "Tony Robbins",
